@@ -1,1 +1,1 @@
-# papago_api2
+# papago_api
