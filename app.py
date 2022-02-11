@@ -9,8 +9,7 @@ app = Flask(__name__)
 #,감지 및 번역 공통 API 공통 키 등록 
 
 
-client_id = "404PCAenrMQIJiWSFbh5" # 변수 설정 시 var 필요 x 
-client_secret = "DzWHUC7Zxo"
+
 #papago 메인화면
 @app.route("/")
 def hello_world(): #localhost:5000/ 라고 입렷했을 때 렌더링 되는 화면
